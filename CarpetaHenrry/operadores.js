@@ -15,7 +15,7 @@ console.log (30 / 9);
 
 //Modulo o resto
 
-console.log (95 % 4);
+console.log (21 % 5);
 
 //precedencia de operadores 
 

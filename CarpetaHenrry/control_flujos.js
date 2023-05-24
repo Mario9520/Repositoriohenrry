@@ -12,7 +12,7 @@ function viajar(destino) {
   viajar('otro');
 
   // segundo ejemplo 
-  function puedeManejar(edad) {
+function puedeManejar(edad) {
     if(edad >= 18) {
              console.log( true );
     } 

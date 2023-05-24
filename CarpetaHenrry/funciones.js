@@ -43,7 +43,6 @@ function otrafuncion() {
         cuidadoconelconsolelog('camilo'));
 }
 
-s
 
 
 
